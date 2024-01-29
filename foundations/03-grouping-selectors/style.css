@@ -3,7 +3,9 @@
 * **Both elements**: a font size of 28px and a list of fonts containing `Helvetica` and `Times New Roman`, with `sans-serif` as a fallback  */
 
 
-button {
+
+.click-me-1,
+.click-me-2  {
   font-size: 28px;
   font-family: Helvetica, 'Times New Roman', sans-serif;
 }
