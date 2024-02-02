@@ -25,8 +25,13 @@ img {
 
 .plant-info{
   display: flex;
-  gap: 52px;
+  justify-content: center;
   text-align: center;
+  gap: 52px;
+}
+
+.plant{
+  max-width: 200px;
 }
 
 /* do not edit this footer */
