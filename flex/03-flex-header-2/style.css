@@ -29,18 +29,19 @@ body {
   margin-right: auto;
   display: flex;
   align-items: center;
+  padding-left: 8px;
 }
 
 ul.links{
   display:flex;
-  gap: 15px;
+  gap: 16px;
 }
 
 .right-items{
   display: flex;
   align-items: center;
-  gap: 15px;
-  padding-right: 10px;
+  gap: 16px;
+  padding-right: 8px;
 }
 
 .profile-image {
